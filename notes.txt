@@ -1,0 +1,14 @@
+I want to create an ai that processes and learns from every single beatmap in the game named osu, such that the ai can create beatmaps itself. Also, users can add certain contraints to the ai to make the beatmap toward their liking. I'd like to use python for this. Help me through the process of this
+
+
+create and integrate the functionality of all of the contraints below (all constraints can be optional as the ai can decide for them):
+
+- User can modify what star rating it should be (sr), the circle size (cs), overall difficultly (od), health points (hp), approach rate (ar), etc
+
+-Users can add what kind of mapping style they like, based off the mappers in the osu community. (each osu beatmap has a person that created the map, so the ai can refine and learn the kind of mapping style from each creator)
+
+-Users can choose from a level on aim, tech, speed, stamina, finger control, precision, and reading modifications as to how they want the map too look and be like. (when the ai learns, it should categorize certain sections of every map into those categories, i.e, aim, tech, speed, stamina, finger control, precision, and reading)
+
+
+program/executable:
+- I want this program to be an executable for other people to download, so i want you to make it such while the ui being really appealing
